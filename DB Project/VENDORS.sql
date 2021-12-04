@@ -1,0 +1,15 @@
+insert into vendors (id, name, city, phone_number) values (1, 'Prosacco-Dibbert', 'Pavlodar', '244-292-4022');
+insert into vendors (id, name, city, phone_number) values (2, 'Mraz LLC', 'Semey', '531-278-1034');
+insert into vendors (id, name, city, phone_number) values (3, 'Miller-Kuhn', 'Ust-Kamenogorsk', '507-978-7544');
+insert into vendors (id, name, city, phone_number) values (4, 'Kihn Inc', 'Atyrau', '644-695-3650');
+insert into vendors (id, name, city, phone_number) values (5, 'Heaney-Ullrich', 'Taraz', '321-112-4762');
+insert into vendors (id, name, city, phone_number) values (6, 'Marvin-Mann', 'Kokshetau', '665-330-3210');
+insert into vendors (id, name, city, phone_number) values (7, 'Homenick, Anderson and Mills', 'Aktau', '127-748-9334');
+insert into vendors (id, name, city, phone_number) values (8, 'Cummings-Gerlach', 'Shymkent', '655-122-2749');
+insert into vendors (id, name, city, phone_number) values (9, 'Tromp, Pfannerstill and Lemke', 'Nur-Sultan', '142-762-8920');
+insert into vendors (id, name, city, phone_number) values (10, 'Orn Inc', 'Nur-Sultan', '763-850-7649');
+insert into vendors (id, name, city, phone_number) values (11, 'Powlowski-Baumbach', 'Kokshetau', '453-154-4008');
+insert into vendors (id, name, city, phone_number) values (12, 'Prosacco Inc', 'Taraz', '883-730-6164');
+insert into vendors (id, name, city, phone_number) values (13, 'Strosin Group', 'Almaty', '983-889-5799');
+insert into vendors (id, name, city, phone_number) values (14, 'Towne, Halvorson and Altenwerth', 'Pavlodar', '167-843-4304');
+insert into vendors (id, name, city, phone_number) values (15, 'Stracke, Schneider and Mayert', 'Atyrau', '430-565-3734');
