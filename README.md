@@ -1,2 +1,2 @@
 # DB-2021
-Асель Раимбаева 20B030455
+All laboratory works of Databases during Autumn 2021
